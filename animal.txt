@@ -1,3 +1,6 @@
 pig
+<<<<<<< HEAD
 elephant
 cat
+=======
+>>>>>>> parent of c857f6b... adding elephant
